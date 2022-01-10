@@ -1,0 +1,84 @@
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
+const writeStream = fs.createWriteStream("./streams.txt", { encoding: "utf8" });
